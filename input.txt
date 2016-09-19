@@ -1,0 +1,6 @@
+insert Abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz<SEP>abc
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+print blocks
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Tenbytesin<SEP>Elevenbytes
+print blocks

@@ -1,0 +1,13 @@
+Memory pool expanded to be 64 bytes.
+|Abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz| is added to the artist database.
+|abc| is added to the song database.
+Memory pool expanded to be 96 bytes.
+|Blind Lemon Jefferson| is added to the artist database.
+Memory pool expanded to be 128 bytes.
+|Long Lonesome Blues| is added to the song database.
+(103,25)
+|Blind Lemon Jefferson| duplicates a record already in the artist database.
+|Long Lonesome Blues| duplicates a record already in the song database.
+|Tenbytesin| is added to the artist database.
+|Elevenbytes| is added to the song database.
+(128,0)
